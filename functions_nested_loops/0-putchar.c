@@ -1,5 +1,9 @@
 #include "main.h"
-
+/*
+ *
+ *The main enrty function
+ *
+ */
 int main(void)
 {
 	_putchar('_');
