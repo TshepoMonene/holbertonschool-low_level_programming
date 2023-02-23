@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * _putchar - writes the characters _putchar to stdout
- * @c: The character to print
- *
- * Return: On success 0.
- * On error, -1 is returned, and errno is set appropriately.
- */
+  * main - Entry point
+  *
+  * Return: Always 0
+  */
 int main(void)
 {
 	_putchar('_');
