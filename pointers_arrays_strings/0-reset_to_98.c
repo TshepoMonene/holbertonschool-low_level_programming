@@ -1,7 +1,8 @@
 #include "main.h"
-/**\=- in - check the code0 
- *
- * Return: Always 0.
+/**
+ * _strlen - returns the length of a string.
+ * @s: input string.
+ * Return: length of a string.
  */
 
 void reset_to_98(int *n){

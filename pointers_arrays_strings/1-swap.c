@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  *1-swap.c - swaps value of two integers
- *
  *return-always return zero
  */
 
