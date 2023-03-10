@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+ * _putchar - prints characters to the screem,
+ * @c :character accepted by _putchar
+ */
+
+int _putchar(char c)
+{
+
+_putchar(c);
+
+return(0);
+
+}
+
